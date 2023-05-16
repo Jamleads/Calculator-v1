@@ -23,4 +23,4 @@ Anyone can contribute to this project, add to the html file or update the css de
 
 ## Contact
 
-ogunyemiadetunji17@gmail.come
+ogunyemiadetunji17@gmail.com
