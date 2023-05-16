@@ -110,9 +110,6 @@ keys.addEventListener('click', function (e) {
       const firstValue = calculator.dataset.firstValue;
       const operator = calculator.dataset.operator;
       const secondValue = displayedNum;
-      console.log(firstValue);
-      console.log(operator);
-      console.log(secondValue);
 
       const calculate = function (n1, operator, n2) {
         let result = '';
